@@ -12,11 +12,12 @@ What the React-Router library does is allow us to define components that render 
 
 Setup
 In your React folder do the following
-
-run command npx create-react-app cryptoprices
-cd into the cryptoprices folder
-run npm install react-router-dom
-run npm startto begin development server
+<p>
+run command npx create-react-app cryptoprices<br />
+cd into the cryptoprices folder<br />
+run npm install react-router-dom<br />
+run npm startto begin development server<br />
+</p>
 
 
 
