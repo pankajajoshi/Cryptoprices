@@ -1,3 +1,29 @@
+<h1>React Router BitCoin PriceFinder</h1>
+<h3>Purpose of this lesson is to Build A Crypto Price Discovery App and learn</h3>
+
+How to setup react router
+How to create Router, Route, Link and Switch components
+How to pass router props
+How to use URL Params
+The Problem
+We are often used to making websites with several "pages" which would be split across several html delivered statically or rendered by templates on a server. When making a React app, the application is a single page with one html file. We can have components conditionally render to make the illusion of pages but it doesn't quite feel as intuitive as using a tags to link to different html files.
+
+What the React-Router library does is allow us to define components that render based on the url in the address bar. We link to them with Link components which feel similar to the a tags we are used to. It allows to create a single page application in a way that feels like a multi-page application.
+
+Setup
+In your React folder do the following
+
+run command npx create-react-app cryptoprices
+cd into the cryptoprices folder
+run npm install react-router-dom
+run npm startto begin development server
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
